@@ -7,3 +7,5 @@ il y a une nouvelle entrée
 et on fait l'inverse 
 
 visuel
+
+modif faites remote
