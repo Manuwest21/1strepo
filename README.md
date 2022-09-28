@@ -10,4 +10,4 @@ visuel
 
 modif faites remote
 
-un arrivant
+un arrivant est
