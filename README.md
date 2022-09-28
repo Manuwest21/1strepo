@@ -19,4 +19,4 @@ de là on va pas pas pas
 
 un texte de branche 
 
-ns allons faire un conflit de branche
+ns allons faire un conflit de branche vs code
